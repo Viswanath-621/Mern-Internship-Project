@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Project: Task and Project Management Application</title>
-</head>
+
 <body>
   <h1>Task and Project Management Application</h1>
   <h2>Overview</h2>
@@ -27,10 +25,9 @@
   </ol>
   <h2>Contributing</h2>
   <p>We welcome contributions from the community to enhance the functionality and usability of this application. If you'd like to contribute, please follow the guidelines outlined in the <code>CONTRIBUTING.md</code> file.</p>
-  <h2>License</h2>
-  <p>This project is licensed under the MIT License. For more information, refer to the <code>LICENSE.md</code> file.</p>
+  
   <h2>Contact</h2>
-  <p>If you have any questions or feedback, feel free to reach out to us at <code>example@example.com</code>.</p>
+  <p>If you have any questions or feedback, feel free to reach out to us at <code>viswanathbodapati@gmail.com</code>.</p>
 </body>
 </html>
 
