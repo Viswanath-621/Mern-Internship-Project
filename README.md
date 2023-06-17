@@ -5,6 +5,7 @@
   <h1>Task and Project Management Application</h1>
   <h2>Overview</h2>
   <p>Welcome to our task and project management application! This application is designed to help you manage and track your tasks and projects effectively. Whether you are an individual looking for a personal task management solution or a team working collaboratively on multiple projects, this application provides the necessary tools and features to streamline your workflow.</p>
+  [![Thumbnail](./public/website-thumbnail.png)](https://fitness-freak-gym.netlify.app)
   <h2>Features</h2>
   <ul>
     <li><strong>Task Management:</strong> Create, update, and delete tasks with ease. Assign tasks to specific team members and set due dates for efficient tracking.</li>
